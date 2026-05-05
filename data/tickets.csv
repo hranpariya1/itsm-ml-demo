@@ -1,0 +1,41 @@
+description,category
+"Cannot connect to VPN from home office",Network
+"VPN keeps disconnecting every few minutes",Network
+"Wi-Fi is very slow in the third floor meeting room",Network
+"Unable to reach internal website, getting timeout error",Network
+"Network printer is not reachable from my laptop",Network
+"DNS resolution failing for company domain",Network
+"Ethernet port in my cubicle is not working",Network
+"Firewall is blocking access to the staging server",Network
+"Outlook keeps asking for password and won't connect",Email
+"I am not receiving any emails since this morning",Email
+"Cannot send emails, getting error 550 relay denied",Email
+"Email attachments are not downloading in webmail",Email
+"Shared mailbox is not visible in Outlook anymore",Email
+"Calendar invites are not syncing to my phone",Email
+"Spam filter is blocking legitimate customer emails",Email
+"Distribution list is bouncing all messages back",Email
+"Forgot my password and account is locked",Account
+"Need to reset password for SAP application",Account
+"My account is locked after too many login attempts",Account
+"Please unlock my Active Directory account",Account
+"New employee needs an account created for HR system",Account
+"Multi factor authentication device is not working",Account
+"Cannot login to Jira, says invalid credentials",Account
+"Please grant me access to the finance shared drive",Account
+"Laptop screen is flickering and going black",Hardware
+"Keyboard keys are not working properly on my Dell laptop",Hardware
+"Mouse cursor freezes and laptop becomes unresponsive",Hardware
+"Need a new docking station for home office setup",Hardware
+"Monitor is not detected when connected to docking station",Hardware
+"Headset microphone is not working during Teams calls",Hardware
+"Laptop battery drains within an hour of use",Hardware
+"Printer is jamming every time I try to print",Hardware
+"Excel crashes whenever I open large spreadsheets",Software
+"Need MS Project installed on my workstation",Software
+"Adobe Acrobat license expired, please renew",Software
+"Teams application won't start after latest update",Software
+"Chrome browser keeps crashing on certain websites",Software
+"Please install Python and Visual Studio Code on my machine",Software
+"PowerPoint not responding when inserting videos",Software
+"Antivirus software is blocking our internal tool",Software
